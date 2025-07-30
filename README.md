@@ -45,3 +45,7 @@ This project walks through creating a small Active Directory environment entirel
 - Verify DNS settings via:
   ```powershell
   ipconfig /all
+
+  
+<img width="1912" height="378" alt="image" src="https://github.com/user-attachments/assets/1e660b93-df38-4bb2-a713-c7be4a4f9e4f" />
+
